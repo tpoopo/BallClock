@@ -1,3 +1,10 @@
+# Retrieve Project 
+Available for cloning on GitHub: https://github.com/tpoopo/BallClock/
+
+# Run Project
+Navigate to BallClock/src directory
+Use Python3 to run ball_clock_runner.py with command line args (see below)
+
 # Ball Clock Usage
 Mode 1: ball_clock_runner [list of integers specifying balls] [-m 1]
     
