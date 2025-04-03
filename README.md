@@ -1,9 +1,9 @@
 # Ball Clock Usage
-Mode 1: ball_clock_runner <list of integers specifying balls> [-m 1]
+Mode 1: ball_clock_runner [list of integers specifying balls] [-m 1]
     
     % ball_clock_runner 30 45 -m 1
 
-Mode 2: ball_clock_runner <list of integers specifying balls> -t <integer for number of minutes to run> -m 2
+Mode 2: ball_clock_runner [list of integers specifying balls] -t <integer for number of minutes to run> -m 2
 
     % ball_clock_runner 30 -t 325 -m 2
 
