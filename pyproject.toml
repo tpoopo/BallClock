@@ -1,0 +1,13 @@
+[project]
+name = "ball_clock_gkgosney"
+version = "0.0.1"
+authors = [
+  { name="Gabe Gosney", email="gabe@wizardofgoz.com" },
+]
+description = "Ball Clock"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
